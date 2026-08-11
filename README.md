@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm currently working on a Car Rental Management System (Java, Spring Boot, Spring Security, PostgreSQL)<br>- 👯 I'm looking to collaborate on beginner-friendly backend/Java projects - happy to learn as I build<br>- 🤝 I'm looking for help with real-world project ideas, code reviews, and backend best practices<br>- 🌱 I'm currently learning Docker, Machine Learning, and system design basics<br>- 💬 Ask me about Java, Spring Boot, REST APIs, SQL, PostgreSQL, Backend Development<br>- ⚡ Fun fact: I enjoy building secure and scalable backend applications with Java, Spring Boot, and PostgreSQL<br>- 💻 Languages: C, Java, Python
+- 🔭 I'm currently working on a Car Rental Management System (Java, Spring Boot, Spring Security, PostgreSQL)<br>- 👯 I'm looking to collaborate on beginner-friendly backend/Java projects - happy to learn as I build<br>- 🤝 I'm looking for help with real-world project ideas, code reviews, and backend best practices<br>- 🌱 I'm currently learning Docker, Machine Learning, and system design basics<br>- 💬 Ask me about Java, Spring Boot, REST APIs, SQL, PostgreSQL, Backend Development<br>- ⚡ Fun fact: I enjoy building secure and scalable backend applications with Java, Spring Boot, and PostgreSQL<br>- 💻 Languages: Java, Python
 
 
 # 💻 Tech Stack:
